@@ -119,5 +119,4 @@ entered as 2-4 means Round Robin with q=4. Also, policy 8-1 means Aging with q=1
     2- Arrival Time\
     3- Priority
 - Processes are assumed to be sorted based on the arrival time. If two processes have the same arrival time, then the one with the lower priority is assumed to arrive first.
-# CPU-Scheduling-Algorithms
-# CPU-Scheduling-Algorithms
+
